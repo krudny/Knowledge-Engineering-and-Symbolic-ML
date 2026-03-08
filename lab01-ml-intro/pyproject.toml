@@ -1,0 +1,8 @@
+[project]
+name = "lab1-ml-intro"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+]
